@@ -762,3 +762,25 @@ a {
   max-width: 500px;
   margin: 0 auto;
 }
+
+/* Feaetures Block */
+.feature {
+  gap: 5rem 2rem;
+  margin: 4rem 0;
+}
+
+.feature__heading {
+  margin: 1rem 0;
+}
+
+.feature__image {
+  width: 100%;
+}
+
+.block-features .media {
+  display: block;
+}
+
+.block-features .media__image {
+  margin: 0 2rem;
+}
