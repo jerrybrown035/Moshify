@@ -27,7 +27,7 @@ html {
 }
 
 body {
-  font-family: Arial, Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, Arial, Helvetica, sans-serif;
   color: var(--color-body);
   line-height: 1.5;
   font-size: 2.4rem;
